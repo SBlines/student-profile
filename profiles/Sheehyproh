@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+<link href="BSpro.css" rel="stylesheet" type="text/css" />
+    <style>
+    html {
+      /*  
+        add your own background image URL here
+      */
+    
+    }
+    
+    
+
+    
+    
+    
+    }
+    </style>
+  </head>
+  
+    <body>
+    <div id='container'>
+
+
+      <div class='cbox'>
+
+        <img class='pic'src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-frc1/c215.4.632.632/s160x160/7665_10100790254989542_91491584_n.jpg" alt="icon"  width=100 height=100 /> 
+        <div class='text1'><h2 class='name'>Brendan Sheehy</h2>
+        <p>East Village</p>
+        <p>New York, NY</p>
+        <p class='email'><a href="mailto:sheehybrendan@aol.com?subject=Hi">
+sheehybrendan@aol.com</a> </p>
+      </div>
+        <div class='clearfix'></div>
+      </div>
+
+      <div class='cbox'>
+        <h3>About Me</h3>
+        <p>I began learning HTML in the late 90's with Microsoft Publisher and loved how easy it was to manipulate text and images to display to my liking. My interests peaked recently when I began learning Ruby and JavaScript for fun and later decided to apply to Fullstack Academy.<br>Other interests include concerts, exercise, and reading.</p>
+      </div>
+
+
+      <div class='cbox'>
+        <h3>Vision Statements</h3>
+        <h4>What experiences do I want to have through coding? Where do I want coding to take me?</h4>
+          <p>I applied to Fullstack Academy in order to learn all about web development and coding in general. The creativity aspect has caught my attention and I look forward to putting my knowledge to use. </p>
+          <h4>What will I contribute to the world through coding?</h4>
+          <p>I want to give back to the community for providing me everything to get started. It was very easy for me to find great resources to learn from and I want to help keep everything available for anyone else who might become curious.</p>
+      </div>
+
+      <div class='cbox'>
+        <h3>My Links</h3>
+        <i class="icon-facebook"></i> <a href="http://facebook.com/dan.bren.12">Facebook</a>
+        <i class="icon-github"></i> <a href="https://github.com/SBlines">Github</a>
+      </div>
+
+      
+
+      <div class='fssignature'><img src='http://www.fullstackacademy.com/img/wearefullstack-sm.png'></div>
+    </div> <!-- end container -->
+  </body>    
+</html>
