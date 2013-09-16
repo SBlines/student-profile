@@ -1,0 +1,78 @@
+    html {
+      /*  
+        add your own background image URL here
+      */
+      background: url(https://dl.dropboxusercontent.com/u/12852544/serve/manhattan-bridge-back.jpg) no-repeat center center fixed; 
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+    }
+    
+    body {
+        background-color: inherit;
+        font-family: arial;
+        font-size: 16px;
+        font-weight: bold;
+        color:black;
+    }
+    h2{
+      color: yellow;
+    }
+    h3{
+      color:yellow;
+    }
+
+    p {
+      line-height: 130%;
+      margin: 15px 0;
+
+    }
+    .email{
+      color:yellow;
+      font-size:14px;
+      text-align:right;
+      margin-left:450px;
+    }
+    
+    #container {
+      width: 800px;
+      margin: 0 auto;
+    }
+    
+    .fssignature {
+      text-align:center;
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+
+    .cbox {
+      background: rgba(38,112,141,0.88);
+      width:800px;
+      border-radius: 5px;
+      margin-left: auto;
+      margin-right: auto;
+      padding: 5px;
+      margin:10px;
+
+    }
+ .text1{
+  float:left;
+}
+.clearfix{
+  clear:both;
+}
+.pic{
+  float:left;
+  border-radius: 5px;
+  margin: 5px;
+  margin-right:20px;
+}
+.icon-github{
+  margin-left: 10px;
+}
+
+a{
+  font-style:normal;
+  color:yellow;
+}
